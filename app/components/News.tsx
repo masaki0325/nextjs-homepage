@@ -1,9 +1,3 @@
-interface NewsItem {
-  date: string;
-  title: string;
-  content: string;
-}
-
 const News = () => {
   const sampleNews = [
     {
